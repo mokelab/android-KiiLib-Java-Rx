@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RxJavaDemo</string>
+
+    <string-array name="main_labels">
+        <item>Observable</item>
+    </string-array>
+
+</resources>
